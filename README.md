@@ -26,9 +26,8 @@ In this repository, we utilize various technologies and libraries for image proc
 - ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 - ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![PIL Badge](https://img.shields.io/badge/-Pillow-FFD43B?style=flat-square&logo=Python&logoColor=black)
 - ![OpenCV Badge](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-- ![PIL Badge](https://img.shields.io/badge/-Pillow-FFD43B?style=flat-square&logo=pillow&logoColor=black)
-- ![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Scikit-Image Badge](https://img.shields.io/badge/-Scikit%20Image-F7931E?style=flat-square&logo=python&logoColor=white)
 
 
