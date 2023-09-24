@@ -1,1 +1,1 @@
-# LAB 05: Lecture 5
+# LAB 05: Lecture 5 Exercises

@@ -1,1 +1,1 @@
-# LAB 06: Lecture 6
+# LAB 06: Lecture 6 Exercises

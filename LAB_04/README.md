@@ -1,1 +1,1 @@
-# LAB 04: Lecture 4
+# LAB 04: Lecture 4 Exercises

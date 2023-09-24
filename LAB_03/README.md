@@ -1,1 +1,1 @@
-# LAB 03: Lecture 3
+# LAB 03: Lecture 3 Exercises
