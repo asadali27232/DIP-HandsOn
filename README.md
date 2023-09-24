@@ -10,9 +10,18 @@ Digital Image Processing is a fascinating field that plays a crucial role in var
 
 The repository is organized into the following folder structure:
 
-- [Lab_01](./Lab_01): Lab 01 exercises and projects.
-- [Lab_02](./Lab_02): Lab 02 assignments and tasks.
-- [Lab_03](./Lab_03): Lab 03 projects and experiments.
+- [LAB_01](./LAB_01): Lecture 1 Exercises
+- [LAB_02](./LAB_02): Lecture 2 Exercises
+- [LAB_03](./LAB_03): Lecture 3 Exercises
+- [LAB_04](./LAB_04): Lecture 4 Exercises
+- [LAB_05](./LAB_05): Lecture 5 Exercises
+- [LAB_05](./LAB_06): Lecture 6 Exercises
+- [LAB_07](./LAB_07): Lecture 7 Exercises
+- [LAB_08](./LAB_08): Lecture 8 Exercises
+- [LAB_09](./LAB_09): Lecture 9 Exercises
+- [LAB_10](./LAB_10): Lecture 10 Exercises
+- [LAB_11](./LAB_11): Lecture 11 Exercises
+- [LAB_12](./LAB_12): Lecture 12 Exercises
 - ...
 
 Each lab's folder contains relevant materials, including Jupyter Notebooks, image datasets, and code samples.
